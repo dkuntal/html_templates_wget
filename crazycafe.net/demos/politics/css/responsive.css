@@ -1,0 +1,1295 @@
+/* Medium Layout: 1600px. */
+
+@media only screen and (min-width: 1601px) {
+    /* ==============================================================
+				yoga Page Start
+================================================================= */
+    /* ==============================================================
+				yoga Page Start
+================================================================= */
+}
+
+
+/* Medium Layout: 1600px. */
+
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+    /* ==============================================================
+				Fitness	Page Start
+================================================================= */
+    /* ==============================================================
+				Fitness	Page Enjd
+================================================================= */
+}
+
+
+/* Medium Layout: 1400px. */
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+    /* ==============================================================
+                       Home Page Start
+================================================================= */
+    /* Hero-area start */
+    /* Hero-area End */
+    /* ==============================================================
+                        Home Page End
+================================================================= */
+}
+
+
+/* Medium Layout: 1200px. */
+
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
+    /* ==============================================================
+                        Contact Page Start
+================================================================= */
+    .contact-info-text {
+        padding-left: 20px;
+        padding-right: 0;
+        width: 84%;
+    }
+    .contact-icon {
+        margin-top: 4px;
+    }
+    /* ==============================================================
+                       Contact Page End
+================================================================= */
+    /* ==============================================================
+                        Donate Page Start
+================================================================= */
+    .donate-area-img {
+        padding-left: 0;
+        padding-top: 25px;
+    }
+    .home-page-blog .single-blog-post-area {
+        display: inline-flex;
+    }
+    /* ==============================================================
+                       D0nate Page End
+================================================================= */
+    /* ==============================================================
+                       Blog-Page-Two Start
+================================================================= */
+    .comment-text {
+        width: 87%;
+    }
+    .comment-to-comment .comment-text {
+        width: 84%;
+    }
+    .blog-area-right .footer-widget-menu a {
+        padding: 10px 24px;
+    }
+    /* ==============================================================
+                       Blog-Page-Two Start
+================================================================= */
+    /* ==============================================================
+                       Blog Page Start
+================================================================= */
+    .blog-page-area .post-area-left > p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .blog-area-left .post-area-right > span {
+        font-size: 14px;
+    }
+    .blog-page-area .post-area-left > p {
+        line-height: 14px;
+    }
+    /* ==============================================================
+                       Blog Page Start
+================================================================= */
+    /* ==============================================================
+                       About Page Start
+================================================================= */
+    /* history-area Start */
+    .icon-text > p {
+        font-size: 13px;
+    }
+    .history-area-only-text > p {
+        font-size: 12px;
+    }
+    /* history-area End */
+    /* confidence-area Start */
+    .confidence-area-left > p {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    /* confidence-area End */
+    /* team-member-area Start */
+    .team-member-details > a {
+        font-size: 11px;
+    }
+    .team-member-details {
+        padding-top: 40px;
+    }
+    .team-member-page .confidence-area-right {
+        padding-top: 30px;
+    }
+    /* team-member-area End */
+    /* people-say-area End */
+    .people-say-area {
+        padding: 80px 0 125px;
+    }
+    /* people-say-area End */
+    /* ==============================================================
+                       About Page Start
+================================================================= */
+    /* ==============================================================
+                       Home Page Start
+================================================================= */
+    /* header-area Start */
+    .hero-area-menu ul.nav.navbar-nav li a {
+        padding: 32px 10px;
+    }
+    .red-btn {
+        width: 140px;
+    }
+    /* header-area End */
+    /* Hero-area Start */
+    .hero-area-content {
+        padding-left: 40px;
+    }
+    /* Hero-area End */
+    /* about-area Start */
+    .about-area-single-content > p {
+        font-size: 13px;
+    }
+    /* about-area End */
+    /* journey-area Start */
+    .single-journey {
+        margin-top: 260px;
+    }
+    .single-journey:nth-child(2) {
+        margin-top: 200px;
+    }
+    .single-journey:nth-child(2n+1) .year {
+        left: -103px;
+    }
+    .year {
+        right: -104px;
+    }
+    /* journey-area End */
+    /* goals-area Start */
+    .goals-area-text > h1 {
+        font-size: 24px;
+    }
+    /* goals-area End */
+    /* Blog-area Start */
+    .post-area-left > p {
+        font-size: 12px;
+    }
+    .post-area-right > span {
+        font-size: 12px;
+    }
+    /* blog-area End */
+    /* footer-area Start */
+    .single-widget > h4 {
+        font-size: 16px;
+    }
+    .single-widget a {
+        font-size: 12px;
+    }
+    .footer-widged-date a {
+        font-size: 11px !important;
+    }
+    .footer-widget-menu li:nth-child(3) {
+        margin-right: 15px;
+    }
+    .footer-widget-menu a {
+        font-size: 14px;
+    }
+    /* footer-area End */
+    /* overview-area start */
+    /* overview-area End */
+    /* case-area start */
+    /* case-area End */
+    /* footer-area Start */
+    /* footer-area End */
+    /* ==============================================================
+                        Home Page End
+================================================================= */
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+    /* ============================================================================
+						FAQ page Start
+=============================================================================== */
+    /* ============================================================================
+						FAQ page End
+=============================================================================== */
+    /* ============================================================================
+						FAQ page Start
+=============================================================================== */
+    .contact-info {
+        padding-left: 0;
+    }
+    .contact-single-info {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .contact-info-text {
+        padding-left: 15px;
+        padding-right: 12px;
+        width: 86%;
+    }
+    .contact-icon {
+        height: 30px;
+        line-height: 30px;
+        width: 30px;
+        margin-top: 4px;
+    }
+    .contact-icon i {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .contact-info-text > p {
+        font-size: 13px;
+    }
+    .contact-info-text h3 {
+        font-size: 19px;
+    }
+    /* ============================================================================
+						FAQ page End
+=============================================================================== */
+    /* ============================================================================
+						Donate page Start
+=============================================================================== */
+    .donate-form-bottom .col-sm-6 {
+        padding: 0 7.5px;
+    }
+    .donate-form-bottom .col-sm-12 {
+        padding: 0 7.5px;
+    }
+    .donate-area-img {
+        padding-left: 0;
+        padding-top: 135px;
+        width: 100%;
+    }
+    /* ============================================================================
+						Dontae page End
+=============================================================================== */
+    /* ============================================================================
+						Blog-page-three Start
+=============================================================================== */
+    .blog-page-three .blog-area-right {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /* ============================================================================
+						Blog-page-three End
+=============================================================================== */
+    /* ============================================================================
+						Blog-page-two Start
+=============================================================================== */
+    .comment-text {
+        width: 82%;
+    }
+    .comment-to-comment .comment-text {
+        width: 78%;
+    }
+    .share-social-link {
+        bottom: -5px;
+        left: 35%;
+        width: 200px;
+    }
+    /* ============================================================================
+						Blog-page-two End
+=============================================================================== */
+    /* ============================================================================
+						Blog page Start
+=============================================================================== */
+    /* blog-area-left Start */
+    .blog-area-right {
+        padding-left: 0;
+    }
+    .blog-area-left .post-area-left > p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .blog-area-left .post-area-right > span {
+        font-size: 14px;
+        top: 0;
+    }
+    /* blog-area-left End */
+    /* blog-area-right Start */
+    .single-blog-post-area > h4 {
+        font-size: 12px;
+        line-height: 27px;
+        text-align: center;
+    }
+    .blog-area-right .single-blog-post-area > p {
+        font-size: 11px;
+    }
+    /* blog-area-right End */
+    /* ============================================================================
+						Blog page End
+=============================================================================== */
+    /* ============================================================================
+						team-member page Start
+=============================================================================== */
+    /* team-member-area Start */
+    .team-member-details > p {
+        font-size: 13px;
+    }
+    .team-member-details > a {
+        font-size: 12px;
+    }
+    .team-member-details {
+        padding-top: 0;
+    }
+    .team-member-page .confidence-area-right {
+        padding-top: 0;
+    }
+    .single-bar:last-child .barfiller {
+        margin-bottom: 10px;
+    }
+    /* team-member-area End */
+    /* ============================================================================
+						team-member page End
+===============================================================================
+*/
+    /* ============================================================================
+						About page Start
+=============================================================================== */
+    /* history-area Start */
+    .history-area-right {
+        padding-left: 0;
+    }
+    .icon-text > p {
+        font-size: 12px;
+    }
+    .history-area-only-text > p {
+        font-size: 12px;
+    }
+    /* history-area End */
+    /* confidence-area Start */
+    .confidence-area-left {
+        padding-right: 0;
+    }
+    .confidence-area-left > p {
+        font-size: 13px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+    /* confidence-area End */
+    /* team-area Start */
+    .team-member-img > img {
+        width: 100%;
+    }
+    .team-area-single-content {
+        padding-bottom: 60px;
+    }
+    /* team-area End */
+    /* people-area Start */
+    .people-say-area {
+        padding-bottom: 125px;
+        padding-top: 20px;
+    }
+    .people-say-single-content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .people-say-single-content > p {
+        font-size: 12px;
+    }
+    .people-say-single-content > h4 {
+        font-size: 16px;
+    }
+    .people-slider i {
+        left: 43%;
+    }
+    .people-slider i.icofont.icofont-long-arrow-right {
+        left: auto;
+        right: 43%;
+    }
+    /* people-area End */
+    /* Goaos area-area End */
+    .goals-area-text {
+        padding-left: 0;
+    }
+    /* people-area End */
+    /* footer-area Start */
+    .footer-content > p {
+        width: 65%;
+    }
+    .footer-social-icon {
+        width: 35%;
+    }
+    /* footer-area End */
+    /* confidence-area Start */
+    /* confidence-area End */
+    /* confidence-area Start */
+    /* confidence-area End */
+    /* confidence-area Start */
+    /* confidence-area End */
+    /* ============================================================================
+						About page End
+=============================================================================== */
+    /* ============================================================================
+						Home page Start
+=============================================================================== */
+    /* header-area Start */
+    .logo-area {
+        text-align: center;
+    }
+    .hero-area-menu ul.nav.navbar-nav li a {
+        font-size: 13px;
+        padding: 32px 13px;
+    }
+    .header-area .col-md-9.col-sm-8.col-xs-12 {
+        padding-left: 0;
+    }
+    .red-btn {
+        font-size: 12px;
+        width: 105px;
+        top: 17px;
+    }
+    /* header-area End */
+    /* hero-area Start */
+    .hero-area {
+        height: 550px;
+    }
+    .hero-area-table {
+        height: 550px;
+    }
+    .hero-area-content {
+        margin-top: 25px;
+        padding-left: 40px;
+    }
+    /* hero-area End */
+    /* about-area Start */
+    .about-area-single-content.about-icon {
+        height: 50px;
+        padding: 16px;
+        width: 50px;
+    }
+    .about-area-single-content.about-icon.extra-padding {
+        padding: 14px 18px 17px;
+    }
+    .about-area .col-md-3.col-xs-9.col-sm-3 {
+        padding-right: 0;
+    }
+    .about-area-single-content > p {
+        font-size: 11px;
+    }
+    /* about-area End */
+    /* confidence-area Start */
+    /* confidence-area End */
+    /* website-area Start */
+    .single-journey:nth-child(2n+1) .year {
+        left: -82px;
+    }
+    .year {
+        right: -83px;
+    }
+    /* website-area End */
+    /* journey-area Start */
+    .single-journey {
+        margin-top: 250px;
+    }
+    .single-journey:nth-child(2) {
+        margin-top: 225px;
+    }
+    .journey-area-content::before {
+        height: 78%;
+    }
+    .year {
+        height: 65px;
+        width: 65px;
+    }
+    .year::before {
+        height: 100%;
+        width: 100%;
+    }
+    .year::after {
+        height: 55px;
+        width: 55px;
+    }
+    /* journey-area End */
+    /* donate-area Start */
+    .donate-area-text {
+        padding-right: 0;
+    }
+    /* donate-area End */
+    /* goals-area Start */
+    .goals-area-text > h1 {
+        font-size: 22px;
+    }
+    .goal-btn {
+        position: relative;
+        right: 10px;
+        width: 120px;
+    }
+    /* goals-area End */
+    /* gallary-area Start */
+    .gallary-area .col-sm-3 {
+        padding: 0 7.5px;
+    }
+    .gallery-img {
+        margin-bottom: 10px;
+    }
+    .gallary-area {
+        padding-bottom: 65px;
+    }
+    /* gallary-area End */
+    /* blog-area Start */
+    .single-blog-text > h3 {
+        font-size: 18px;
+    }
+    .post-area-left > p {
+        font-size: 9px;
+    }
+    .home-page-blog .single-blog-post-area {
+        display: inline-flex;
+    }
+    .post-area-right > span {
+        font-size: 9px;
+        position: relative;
+        top: -5px;
+    }
+    .single-blog-post-area i {
+        margin-right: 3px;
+    }
+    .single-blog-text > p {
+        font-size: 13px;
+    }
+    /* blog-area End */
+    /* footer-area Start */
+    .single-widget {
+        padding-bottom: 30px;
+    }
+    .single-widget a {
+        line-height: 32px;
+    }
+    .single-widget > p {
+        line-height: 30px;
+    }
+    .footer-widget-menu.tag-clouds li {
+        display: block;
+        width: 100%;
+    }
+    .footer-widget-menu a {
+        padding: 15px;
+        width: 100%;
+    }
+    .col-child:nth-child(3) .single-widget a {
+        font-size: 11px;
+    }
+    .footer-widget {
+        padding-bottom: 40px;
+    }
+    /* footer-area End */
+    /* footer-area Start */
+    /* footer-area End */
+    /* ============================================================================
+						Home page End
+=============================================================================== */
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    /* =============================================================================== 
+							Blog Page Start
+================================================================================== */
+    .blog-page-area.blog-page-two .single-blog-post-area {
+        padding-top: 35px;
+    }
+    /* =============================================================================== 
+							Blog Page Start
+================================================================================== */
+    /* =============================================================================== 
+							Testimonial Page Start
+================================================================================== */
+    .goals-area-text {
+        padding: 0;
+    }
+    /* =============================================================================== 
+							testimonial Page End
+================================================================================== */
+    /* =====================================================
+					Contact Page Start
+========================================================*/
+    .contact-info {
+        padding-left: 0;
+        padding-top: 60px;
+    }
+    .contact-single-info {
+        padding: 15px;
+    }
+    .contact-info-text {
+        padding-left: 15px;
+        padding-right: 5px;
+        width: 82%;
+    }
+    /* =====================================================
+					Contact Page End
+========================================================*/
+    /* =====================================================
+					Donate Page Start
+========================================================*/
+    .donate-form {
+        padding-left: 0;
+    }
+    .donate-form-top > h2 {
+        font-size: 29px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .donate-form-bottom .col-md-7 {
+        padding-bottom: 60px;
+        padding-right: 15px;
+    }
+    .donate-area-img {
+        padding-left: 0;
+        padding-top: 40px;
+    }
+    .donate-select-area select {
+        margin-bottom: 25px;
+    }
+    /* =====================================================
+					Donate Page End
+========================================================*/
+    /* =============================================================================== 
+				    Blog-Page-Three Start
+================================================================================== */
+    .blog-page-three .blog-area-right {
+        padding-right: 0;
+        padding-top: 0;
+    }
+    .blog-page-area.blog-page-two.blog-page-three a.blog-pag.blog-pagination-next {
+        bottom: -30px !important;
+    }
+    /* =============================================================================== 
+				    Blog-Page-Three Start
+================================================================================== */
+    /* =============================================================================== 
+				    Blog-Page-Two Start
+================================================================================== */
+    /* blog-page-Two Comment-area Start */
+    .blog-page-area.blog-page-two .blog-area-left {
+        padding-top: 0;
+    }
+    .blog-comment-area {
+        padding-top: 100px;
+    }
+    .commentor-image {
+        width: 60px;
+    }
+    .commentor-image > img {
+        height: 60px;
+        width: 60px;
+    }
+    .comment-text {
+        width: 79%;
+    }
+    .single-comment.comment-to-comment {
+        padding-left: 25px;
+    }
+    .comment-to-comment .comment-text {
+        width: 77%;
+    }
+    .comment-text > p {
+        font-size: 12px;
+    }
+    /* blog-page-Two Comment-area Start */
+    /* blog-pagination Start */
+    .blog-page-two .blog-pagination-next {
+        bottom: -30px;
+        right: -10px;
+    }
+    .blog-pag.blog-pagination-prev {
+        bottom: -30px;
+        left: -11px;
+    }
+    .share-social-link {
+        bottom: -7px;
+        left: 25%;
+        width: 168px;
+    }
+    .share-social-link li {
+        margin: 0 3px;
+    }
+    /* blog-pagination Start */
+    /* =============================================================================== 
+							Blog-Page-Two End
+================================================================================== */
+    /* =====================================================
+					Blog Page Start
+========================================================*/
+    /* .single-blog-post-left {
+    width: 100%;
+}
+.single-blog-post-right {
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+} */
+    .single-blog-post-area > h3 {
+        font-size: 22px;
+    }
+    .single-blog-post-area i {
+        margin-right: 3px;
+    }
+    .home-page-blog .post-area-left > p {
+        line-height: 22px;
+    }
+    /* =====================================================
+					blog Page End
+========================================================*/
+    /* =====================================================
+					team-member-page Start
+========================================================*/
+    .team-member-details {
+        padding-top: 40px;
+    }
+    .team-member-page .team-area-single-content {
+        margin-bottom: 0;
+    }
+    .blog-area-right {
+        padding-left: 0;
+        padding-top: 60px;
+    }
+    /* =====================================================
+					team-member-page End
+========================================================*/
+    /* =====================================================
+					About Page Start
+========================================================*/
+    .hero-area.about-page {
+        height: 340px !important;
+    }
+    .about-page .hero-area-table {
+        top: 148px;
+    }
+    .page-banner h2 {
+        text-align: center;
+    }
+    .page-link {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+    .history-area-right {
+        padding-left: 0;
+        padding-top: 40px;
+    }
+    .icon-text p {
+        padding-left: 15px;
+        text-align: left;
+    }
+    .icon-text p i {
+        left: -17px;
+        margin-right: 0;
+        position: relative;
+    }
+    /* team-area Start */
+    .team-member-img > img {
+        width: 100%;
+    }
+    .team-area-single-content {
+        padding-bottom: 60px;
+    }
+    .people-say-area {
+        padding-top: 0;
+    }
+    /* team-area End */
+    /* people-say-area Start */
+    .people-say-area {
+        padding-top: 0;
+    }
+    .people-slider i {
+        bottom: -50px;
+        left: 41%;
+    }
+    .people-slider i.icofont.icofont-long-arrow-right {
+        left: auto;
+        right: 41%;
+    }
+    /* people-say-area End */
+    /* =====================================================
+					About Page End
+========================================================*/
+    /* =====================================================
+					Home Page Start
+========================================================*/
+    /*
+=====================================================================
+	Dropdown Menu Starts when use dropdown for mobile Device
+===================================================================== */
+    .hero-area-menu #nav > li {
+        width: 100%;
+        overflow: hidden;
+    }
+    .hero-area-menu .nav.navbar-nav li ul.dropdown-menu {
+        display: none;
+        left: 0;
+        opacity: 1;
+        top: auto;
+        transition: all 0.6s ease 0s;
+        visibility: visible;
+    }
+    .hero-area-menu .dropdown-menu > li {
+        display: block;
+        width: 100%;
+    }
+    /* Extra Dropdown Menu Style Start */
+    /* Extra Dropdown Menu Style End */
+    /*
+=====================================================================
+	Dropdown Menu Ends when use dropdown for mobile Device
+=====================================================================
+*/
+    .hero-area {
+        height: 650px !important;
+    }
+    /* hero-Area Start */
+    .header-area {
+        left: 0;
+        padding: 15px 0 18px;
+        position: static;
+        top: 0;
+        width: 100%;
+        z-index: 999;
+    }
+    .icon-bar {
+        background: #ed3928 none repeat scroll 0 0;
+    }
+    .hero-area-content > h1 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .hero-area-content > p {
+        font-size: 12px;
+    }
+    /* Hero AreaMenu Start */
+    .logo-area {
+        text-align: center;
+    }
+    .logo-area > a {
+        padding-top: 2px;
+    }
+    .hero-area-mainmenu {
+        padding-top: 60px;
+    }
+    #bs-example-navbar-collapse-1 {
+        background: #ffffff none repeat scroll 0 0;
+        position: absolute;
+        right: 0;
+        width: 100%;
+        z-index: 9999;
+    }
+    .collapse.navbar-collapse {
+        float: left;
+        overflow: hidden;
+        padding-right: 0;
+        position: relative;
+        width: 100%;
+    }
+    .hero-area-menu .navbar-collapse.collapse.in {
+        overflow: visible;
+    }
+    .hero-area-menu .nav.navbar-nav {
+        width: 100%;
+        text-align: left;
+    }
+    .hero-area-menu #nav > li {
+        display: inline-block;
+        text-align: left;
+    }
+    .hero-area-menu ul.nav.navbar-nav li a {
+        padding: 13px 0;
+        transition: all 0.3s ease 0s;
+    }
+    .hero-area-menu .navbar-toggle {
+        margin-top: -45px;
+    }
+    .hero-area-menu .dropdown-menu {
+        box-shadow: none;
+        display: none;
+        opacity: 1;
+        padding-left: 0;
+        position: static;
+        transform: translateY(0px);
+        transition: none 0s ease 0s !important;
+        visibility: visible;
+        width: 95%;
+    }
+    .hero-area-menu .dropdown-menu > li {
+        display: block;
+        width: 100%;
+    }
+    .hero-area-menu .navbar-nav li:hover ul.dropdown-menu li a {
+        padding-left: 13px!important;
+    }
+    .get-quote-btn {
+        left: 12px;
+        position: absolute;
+        right: auto;
+        top: 12px;
+        width: 130px;
+    }
+    .hero-area-menu .navbar-collapse.collapse.in .nav.navbar-nav {
+        margin-top: 7px;
+    }
+    .hero-area-menu .nav.navbar-nav {
+        padding-top: 0;
+        padding-left: 14px;
+    }
+    .red-btn {
+        position: absolute;
+        top: -50px;
+    }
+    .hero-area-mainmenu {
+        padding-top: 70px;
+    }
+    /* Hero Area Menu End */
+    .hero-area-table {
+        top: -90px;
+    }
+    .hero-area-content {
+        top: -50px;
+    }
+    .hero-area .carousel-indicators {
+        bottom: 156px;
+    }
+    /* hero-Area End */
+    /* about-Area Start */
+    .about-area-single-content.about-icon {
+        margin: 0 auto 0 50px;
+    }
+    .about-area {
+        padding-bottom: 40px;
+    }
+    .about-area-single-content {
+        margin-bottom: 60px;
+    }
+    .about-area-single-content > p {
+        font-size: 14px;
+    }
+    .about-area-single-content.about-icon {
+        margin-left: 0;
+    }
+    /* about-area End */
+    /* journey-area Start */
+    .journey-area-content::before {
+        background: transparent none repeat scroll 0 0;
+    }
+    .single-journey {
+        text-align: center;
+    }
+    .single-journey-text > p {
+        font-size: 14px;
+    }
+    /* journey-area End */
+    /* confidence-area Start */
+    .confidence-area-left {
+        padding-right: 0;
+    }
+    .confidence-area-left > p {
+        font-size: 13px;
+    }
+    /* confidence-area End */
+    /* section-heading-Area-Start */
+    .section-heading > p {
+        font-size: 13px;
+    }
+    .single-journey {
+        margin-top: 100px;
+        padding-top: 120px;
+        width: 100%;
+    }
+    .year {
+        left: 39%;
+        right: auto;
+    }
+    .single-journey:nth-child(2n+1) .year {
+        left: 38%;
+    }
+    .journe-area-content::before {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    }
+    .single-journey-text {
+        text-align: center;
+    }
+    .single-journey-text > h3 {
+        font-size: 20px;
+    }
+    .single-journey:nth-child(2) {
+        margin-top: 100px;
+    }
+    /* section-heading-Area End */
+    /* counter-Area Start */
+    .counter-area .container {
+        padding-bottom: 20px;
+    }
+    .single-counter {
+        padding-bottom: 30px;
+        padding-left: 15px;
+    }
+    .counter-single-content {
+        display: block;
+    }
+    /* counter-Area End */
+    /* donate-area Start */
+    .donate-area .section-heading > h2 {
+        font-size: 19px;
+    }
+    .donate-area-text > h2 {
+        font-size: 21px;
+    }
+    .donate-area-text {
+        padding-bottom: 60px;
+        padding-right: 0;
+    }
+    .donate-area-text > p {
+        font-size: 14px;
+    }
+    /* donate-area End */
+    /* gallery-area Start */
+    .gallary-area .section-heading > h2 {
+        font-size: 27px;
+    }
+    .single-gallery-img {
+        width: 100%;
+    }
+    .gallery-img > img {
+        width: 100%;
+    }
+    /* gallery-area End */
+    /* goals-area Start */
+    .counter-area.goals-area .container {
+        padding-bottom: 55px;
+    }
+    .goals-area-text > h1 {
+        font-size: 25px;
+        line-height: 35px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    /* goals-area End */
+    /* blog-area Start */
+    .blog-area {
+        padding-bottom: 40px;
+    }
+    .single-blog {
+        padding-bottom: 60px;
+    }
+    .post-area-left {
+        display: inline-block;
+    }
+    .post-area-right {
+        display: inline-block;
+        padding-left: 5px;
+    }
+    .post-area-right {
+        display: inline-block;
+        padding-left: 5px;
+    }
+    .blog-page-area .post-area-left > p {
+        font-size: 10px;
+    }
+    .home-page-blog .post-area-right > span {
+        font-size: 12px;
+        position: relative;
+        top: 0;
+    }
+    .post-area-right > span {
+        font-size: 9px;
+        position: relative;
+        top: -2px;
+    }
+    .like {
+        font-size: 9px;
+    }
+    .admin {
+        font-size: 9px;
+        margin-right: 0;
+    }
+    /* blog-area End */
+    /* footer-area Start */
+    .footer-widget {
+        border-bottom: medium none;
+    }
+    .footer-top {
+        border-bottom: 1px solid #404040;
+    }
+    .footer-widget {
+        padding-bottom: 0;
+    }
+    .col-child:nth-child(4) .single-widget {
+        padding-left: 0;
+    }
+    .single-widget {
+        padding-bottom: 60px;
+    }
+    .footer-widget-menu li {
+        margin: 0 4px 15px 0;
+    }
+    .footer-widget-menu.tag-clouds a {
+        padding: 10px 18px;
+    }
+    .footer-content > p {
+        line-height: 28px;
+        text-align: center;
+        width: 100%;
+    }
+    .footer-content a {
+        color: #ed3928;
+    }
+    .footer-social-icon li {
+        margin-right: 6px;
+    }
+    .footer-social-icon {
+        text-align: center;
+        width: 100%;
+    }
+    .footer-social-icon a {
+        line-height: 70px;
+    }
+    .footer-content {
+        padding-top: 25px;
+    }
+    /* footer-area End */
+    /* =====================================================
+					Home Page Ends
+========================================================*/
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    /* =============================================================================== 
+							blog-page-three Start
+================================================================================== */
+    .blog-page-three .blog-area-right {
+        padding-right: 0;
+    }
+    .blog-input-area {
+        margin: 0 auto;
+        width: 450px;
+    }
+    .blog-page-area.blog-page-two.blog-page-three a.blog-pag.blog-pagination-next {
+        bottom: 0!important;
+    }
+    /* =============================================================================== 
+							blog-page-three End
+================================================================================== */
+    /* =============================================================================== 
+							blog-page-Two Start
+================================================================================== */
+    .blog-page-area.blog-page-two .blog-pagination-next {
+        bottom: 0;
+    }
+    /* =============================================================================== 
+							blog-page-Two End
+================================================================================== */
+    /* =============================================================================== 
+							blog Page Start
+================================================================================== */
+    .blog-page-area .post-area-left > p {
+        line-height: 21px;
+        margin-bottom: 14px;
+    }
+    .single-blog-post-right {
+        text-align: right;
+    }
+    .blog-page-area .post-area-left > p {
+        font-size: 13px;
+        line-height: 20px;
+        padding-top: 0;
+    }
+    .post-area-right {
+        padding-left: 15px;
+    }
+    .single-blog-post-area i {
+        margin-right: 8px;
+    }
+    .post-area-right > span {
+        font-size: 13px;
+        top: 0;
+    }
+    .admin {
+        font-size: 13px;
+        margin-right: 10px;
+    }
+    .like {
+        font-size: 13px;
+    }
+    .blog-pag.blog-pagination-prev {
+        bottom: 0;
+        left: 0;
+    }
+    .blog-pag.blog-pagination-next {
+        right: 0;
+    }
+    .share-social-link {
+        left: 35%;
+    }
+    .comment-text {
+        width: 85%;
+    }
+    .comment-to-comment .comment-text {
+        width: 83%;
+    }
+    .single-comment.comment-to-comment {
+        padding-left: 41px;
+    }
+    /* =============================================================================== 
+							blog Page End
+================================================================================== */
+    /* =============================================================================== 
+							About Page Start
+================================================================================== */
+    .history-area-img > img {
+        width: 100%;
+    }
+    .icon-text p {
+        padding-left: 15px;
+        text-align: left;
+        font-size: 12px;
+    }
+    /* =============================================================================== 
+							About Page End
+================================================================================== */
+    /* =============================================================================== 
+							Home-Page Start
+================================================================================== */
+    /* about-area Start */
+    .about-area-single-content.about-icon {
+        margin-left: 35px;
+    }
+    /* about-area End */
+    /* journey-area Start */
+    .single-journey:nth-child(2n+1) {
+        float: right;
+        text-align: center;
+    }
+    .single-journey:nth-child(2n+1) .year {
+        left: 42%;
+    }
+    .year {
+        left: 42%;
+        right: auto;
+    }
+    /* journey-area End */
+    /* goals-area Start */
+    .goals-area-text > h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+    /* goals-area End */
+    /* footer-area Start */
+    .footer-widget {
+        margin: 0 auto;
+        width: 480px;
+    }
+    /* footer-area End */
+    /* =============================================================================== 
+							Home-Page End
+================================================================================== */
+}

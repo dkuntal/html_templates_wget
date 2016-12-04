@@ -1,0 +1,106 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #202020;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+  -webkit-overflow-scrolling: touch;
+  -webkit-font-smoothing: antialiased !important;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+a,
+.btn{
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+/*Button Styles*/
+.btn {
+  text-transform: uppercase;
+  font-size: 14px;
+  border-radius: 0px;
+}
+.btn-primary {
+  background-color: #333;
+  border-color: #333;
+}
+.btn-primary.active, 
+.btn-primary.focus, 
+.btn-primary:active, 
+.btn-primary:focus, 
+.btn-primary:hover, 
+.open>.dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #ef4836;
+  border-color: #ef4836;
+}
+
+/*Main Content*/
+.intro-banner {
+  background: url(../img/banner.jpg) no-repeat center top;
+  background-size: cover;
+}
+.overlay-bg {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 150px 0;
+}
+.intro-text {
+  color: #fff;
+  font-size: 16px;
+}
+.intro-text h1{
+  color: #fff;
+  font-size: 46px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+.intro-text p {
+  font-style: italic;
+}
+.clored-text {
+  color: #ef4836;
+}
+.clored-text span {
+  color: #fff;
+}
+.page-content {
+  padding: 100px 0;
+}
+
+.demo-content a img {
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.demo-content a:hover img {
+  opacity: 0.5;
+}
+.page-content .btn {
+  margin: 30px 0;
+}
+.margin-top-30 {
+	margin-top: 30px;
+}
+
+.call-to-action .btn{
+  padding: 30px 0;
+  text-transform: capitalize;
+  font-size: 28px;
+}
+
+.footer {
+  padding: 70px 0;
+  background-color: #222222;
+}
+.footer p {
+  color: #666;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
