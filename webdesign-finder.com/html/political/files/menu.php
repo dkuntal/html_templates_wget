@@ -13,7 +13,7 @@
 									</li>
 
 									<li>
-										<a href="about.php">About This</a>
+										<a href="about.php">About</a>
 									</li>
 
 									<li>
