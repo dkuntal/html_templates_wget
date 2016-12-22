@@ -98,267 +98,51 @@
 							<div class="isotope_container isotope row masonry-layout" data-filters=".isotope_filters">
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 elections">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/01.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/01.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Consetetur sadipscing</a>
-										</h3>
-										<span class="categories-links">
-											<a rel="category" href="blog-right.html" class="theme_button small_button color1">elections</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_1.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 meetings">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/02.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/02.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Elitr sed diam nonumy</a>
-										</h3>
-										<span class="categories-links">
-											<a rel="category" href="#" class="theme_button small_button color1">meetings</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_2.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 electorat">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/03.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/03.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Tempor invidunt ut labore</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">electorat</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_3.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 policy">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/04.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/04.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Elitr sed diam nonumy</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">policy</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_4.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 program">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/05.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/05.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Tempor invidunt ut labore</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">program</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_5.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 elections">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/06.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/06.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Elitr sed diam nonumy</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">elections</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_6.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 meetings">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/07.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/07.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Dolore magna aliquyam</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">meetings</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_7.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 electorat">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/08.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/08.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Consetetur sadipscing</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">electorat</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_8.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 electorat">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/09.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/09.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Elitr sed diam nonumy</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">electorat</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_9.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 program">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/10.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/10.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Dolore magna aliquyam</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">program</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_10.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 elections">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/11.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/11.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Consetetur sadipscing</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">elections</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_11.php'); ?>
 								</div>
 
 								<div class="isotope-item col-lg-6 col-md-6 col-sm-6 policy">
-									<div class="vertical-item gallery-title-item content-absolute">
-										<div class="item-media">
-											<img src="images/gallery/12.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/12.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="item-title text-center">
-										<h3>
-											<a href="gallery-single.html">Dolore magna aliquyam</a>
-										</h3>
-										<span class="categories-links highlight2-links">
-											<a rel="category" href="#" class="theme_button small_button color1">policy</a>
-										</span>
-									</div>
+									<?php include('gallery/gallery-fw_12.php'); ?>
 								</div>
 
 							</div>
