@@ -98,235 +98,56 @@
 							<div class="isotope_container isotope row masonry-layout" data-filters=".isotope_filters">
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 elections">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/01.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/01.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_1.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 meetings">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/02.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/02.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_2.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 electorat">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/03.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/03.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_3.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 policy">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/04.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/04.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_4.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 program">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/05.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/05.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_5.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 elections">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/06.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/06.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_6.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 meetings">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/07.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/07.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_7.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 electorat">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/08.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/08.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_8.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 electorat">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/09.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/09.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_9.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 program">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/10.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/10.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_10.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 elections">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/11.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/11.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_11.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30 col-lg-3 col-md-6 col-sm-12 policy">
-									<div class="vertical-item gallery-item content-absolute text-center ds">
-										<div class="item-media">
-											<img src="images/gallery/12.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/12.jpg"></a>
-													<a class="p-link" title="" href="gallery-single.html"></a>
-												</div>
-											</div>
-										</div>
-										<div class="item-content">
-											<h5 class="item-meta ">
-												<a href="gallery-single.html">Consetetur sadipscing elitr, sed diam nonumy</a>
-											</h5>
-										</div>
-									</div>
+									<?php include('gallery/gallery-reg_12.php'); ?>
 								</div>
 
 							</div>
 							<!-- eof .isotope_container.row -->
+
 							<div class="row">
 								<div class="col-sm-12 text-center">
 									<div>
@@ -367,6 +188,7 @@
 					</div>
 				</div>
 			</section>
+
 			<?php include('files/footer.php'); ?>
 
 		</div>
