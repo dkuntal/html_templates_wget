@@ -100,255 +100,51 @@
 							<div class="isotope_container isotope row masonry-layout" data-filters=".isotope_filters">
 
 								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 elections">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded text-center">
-										<div class="item-media">
-											<img src="images/gallery/01.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Consetetur sadipscing</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">elections</a>
-											</span>
-											<p>Dolor ham quis jowl shankle drumstick, mollit flank. Shank biltong consectetur ipsum, picanha pastrami short loin commodo aute velit landjaeger.</p>
-
-										</div>
-									</div>
+									<?php include('gallery/gallery-ext_1.php'); ?>
 								</div>
 
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 meetings">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/02.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Elitr sed diam</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">meetings</a>
-											</span>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, fugiat pariatur laudantium magnam temporibus ea nemo vero ipsum modi saepe ratione.</p>
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 meetings">
+									<?php include('gallery/gallery-ext_2.php'); ?>
+								</div>
 
-										</div>
-									</div>
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 electorat">
+									<?php include('gallery/gallery-ext_3.php'); ?>
+								</div>
+
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 policy">
+									<?php include('gallery/gallery-ext_4.php'); ?>
+								</div>
+
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 program">
+									<?php include('gallery/gallery-ext_5.php'); ?>
+								</div>
+
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 elections">
+									<?php include('gallery/gallery-ext_6.php'); ?>
+								</div>
+
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 meetings">
+									<?php include('gallery/gallery-ext_7.php'); ?>
 								</div>
 
 								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 electorat">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/03.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Nonumy eirmod</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">electorat</a>
-											</span>
-											<p>Short ribs rump duis doner pork loin, picanha consequat strip steak biltong. Bresaola t-bone flank meatloaf id cillum eiusmod anim jowl sausage rump.</p>
-
-										</div>
-									</div>
+									<?php include('gallery/gallery-ext_8.php'); ?>
 								</div>
 
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 policy">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/04.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Rempor invidunt ut </a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">policy</a>
-											</span>
-											<p>Beef nostrud qui bresaola andouille. Tongue kielbasa pork loin pork, laborum occaecat meatball esse id sint. Qui ball tip do aliquip labore. Rump strip steak duis.</p>
-
-										</div>
-									</div>
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 electorat">
+									<?php include('gallery/gallery-ext_9.php'); ?>
 								</div>
 
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 program">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/05.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Labore dolore magna</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">program</a>
-											</span>
-											<p>Excepteur prosciutto sint meatloaf. In alcatra pastrami meatball picanha consectetur. Aliquip meatball est jerky anim. Filet mignon prosciutto ut enim.</p>
-
-										</div>
-									</div>
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 program">
+									<?php include('gallery/gallery-ext_10.php'); ?>
 								</div>
 
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 elections">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/06.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Aliquyam erat sed </a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">elections</a>
-											</span>
-											<p>Capicola chicken aliqua pastrami meatloaf exercitation ribeye bacon. Officia ad laborum, bacon eu lorem sed ribeye cillum reprehenderit in dolor.</p>
-
-										</div>
-									</div>
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 elections">
+									<?php include('gallery/gallery-ext_11.php'); ?>
 								</div>
 
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 meetings">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/07.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Consetetur sadipscing</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">meetings</a>
-											</span>
-											<p>Salami capicola corned beef doner flank velit. Short ribs jerky ut veniam fugiat. Ut meatloaf reprehenderit ribeye porchetta short ribs chuck jerky.</p>
-
-										</div>
-									</div>
-								</div>
-
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 electorat">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/08.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Aliquyam erat sed </a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">electorat</a>
-											</span>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam optio aliquid officia harum alias voluptates a animi quasi blanditiis! Sequi laboriosam ipsa.</p>
-
-										</div>
-									</div>
-								</div>
-
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 electorat">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/09.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Consetetur sadipscing</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">electorat</a>
-											</span>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam odit earum eligendi, vel laborum dolore, perferendis, at doloribus facilis unde numquam autem!</p>
-
-										</div>
-									</div>
-								</div>
-
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 program">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/10.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Nonumy eirmod</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">program</a>
-											</span>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat esse tempore ipsam veritatis ab tempora voluptatem tenetur harum magnam.</p>
-
-										</div>
-									</div>
-								</div>
-
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 elections">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/11.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Consetetur sadipscing</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">elections</a>
-											</span>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt nesciunt rem numquam. Doloremque hic reiciendis sed, cum atque. Nulla numquam.</p>
-
-										</div>
-									</div>
-								</div>
-
-								<div class="isotope-item bottommargin_30  col-lg-4 col-md-6 col-sm-12 policy">
-									<div class="vertical-item gallery-extended-item with_border bottom-rounded  text-center">
-										<div class="item-media">
-											<img src="images/gallery/12.jpg" alt="">
-											<div class="media-links">
-												<a class="abs-link" title="" href="gallery-single.html"></a>
-											</div>
-										</div>
-										<div class="item-content">
-											<h3 class="item-title">
-												<a href="gallery-single.html">Rempor invidunt ut</a>
-											</h3>
-											<span class="categories-links">
-												<a rel="category" href="#" class="theme_button small_button color1">policy</a>
-											</span>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla commodi aperiam nemo beatae assumenda debitis excepturi, consectetur, quae cum voluptate.</p>
-
-										</div>
-									</div>
+								<div class="isotope-item bottommargin_30 col-lg-4 col-md-6 col-sm-12 policy">
+									<?php include('gallery/gallery-ext_12.php'); ?>
 								</div>
 
 							</div>
